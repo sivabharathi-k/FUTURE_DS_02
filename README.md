@@ -39,8 +39,5 @@ This dashboard helps stakeholders make informed decisions by:
 - Allocating budget based on performance
 - Understanding user engagement and reach metrics
 
-## 📸 Screenshot
-*(Upload a screenshot of your dashboard here and use the below format)*
 
-```md
-![Dashboard Screenshot](images/dashboard_preview.png)
+
